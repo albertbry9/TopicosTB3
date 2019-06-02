@@ -1,0 +1,11 @@
+Autores:
+Bryan Rodriguez Meza - u201611137@upc.edu.pe
+Edwin Alfaro Paredes - u201611810@upc.edu.pe
+
+Contenido:
+- TB3-Informe.pdf -> Informe sobre MGP vs DL
+- Folder TB3: Proyecto en IntelliJ
+- SourceCode.txt -> Codigo fuente de la aplicacion caso haya problemas de compatibilidad del IntelliJ
+
+Version de java: 1.8.0_211
+Java Development Kit (JDK): 12.0.1
